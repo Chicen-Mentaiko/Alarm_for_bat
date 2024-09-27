@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=52800,AVERAGE-BANDWIDTH=52800,CODECS="mp4a.40.5"
+https://radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master48k.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=52800,AVERAGE-BANDWIDTH=52800,CODECS="mp4a.40.5"
+https://radio-stream.nhk.jp/hls/live/2023229-b/nhkradiruakr1/master48k.m3u8
