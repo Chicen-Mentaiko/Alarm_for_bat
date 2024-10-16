@@ -19,9 +19,9 @@ exit /b
 :setmusic
 set /p music="音楽のパスを入力してください >"
 if  %music% == d (
-    set music="default.mp3"
+REM    set music="default.mp3"
     ) else if %music% == r (
-	set music="master.m3u8"
+REM	set music="master.m3u8"
 )
 goto :alarm
 
